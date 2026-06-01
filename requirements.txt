@@ -1,0 +1,4 @@
+```text
+Pillow
+pandas
+openpyxl
